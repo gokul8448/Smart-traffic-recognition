@@ -18,3 +18,4 @@ View your app in AI Studio: https://ai.studio/apps/ddb8c591-edbc-4296-aae6-f09e0
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+# Smart-traffic-recognition
