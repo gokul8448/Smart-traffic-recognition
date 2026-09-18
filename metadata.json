@@ -1,0 +1,10 @@
+{
+  "name": "Smart Traffic Sign Recognition & Road Safety Assistance",
+  "description": "Interactive intelligent traffic sign recognition dashboard with real-time hazard alerts, speed limit violation monitoring, and road safety driving assistance.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
